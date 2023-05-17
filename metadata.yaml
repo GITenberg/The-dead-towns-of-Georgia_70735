@@ -1,0 +1,27 @@
+_repo: The-dead-towns-of-Georgia_70735
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, Charles C.
+    gutenberg_agent_id: '55899'
+    url: http://www.gutenberg.org/2009/agents/55899
+description: ''
+gutenberg_issued: '2023-05-10'
+identifiers:
+  gutenberg: '70735'
+language: en
+pgterms:marc904: https://archive.org/details/deadtownsofgeorg00jonerich/page/n9/mode/2up
+pgterms:marc905: 20211120135912jonesjr
+pgterms:marc906: '1878'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bMorning News Steam Printing House, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The dead towns of Georgia
+url: http://www.gutenberg.org/ebooks/70735
